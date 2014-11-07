@@ -44,11 +44,24 @@ namespace lab1
         {
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
-
             // TODO: use this.Content to load your game content here
-
-
             //m_view = new BaseView(GraphicsDevice, Content);
+
+            Camera m_camera = new Camera();
+            //White Player , Input logical coordinates and translate to visual coordinates.
+            Vector2 logicalWhite = new Vector2(7, 7);
+            m_camera.translateLogicalWhite(logicalWhite);
+
+            //Black Player
+            Vector2 logicalBlack = new Vector2(2, 7);
+            m_camera.translateLogicalBlack(logicalBlack);
+
+            //Rescale platform
+            Vector2 platformScale = new Vector2(320, 240);
+            m_camera.setDimensions(platformScale);
+            m_camera.getScale();
+           
+
         }
 
         /// <summary>
@@ -83,26 +96,7 @@ namespace lab1
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
             
-            Camera m_camera = new Camera();
             // TODO: Add your drawing code here
-
-
-            //White Player , Input logical coordinates and translate to visual coordinates.
-            Vector2 logicalWhite = new Vector2(7,7);
-            m_camera.translateLogicalWhite(logicalWhite);
-
-            //Black Player
-            Vector2 logicalBlack = new Vector2(2, 7);
-            m_camera.translateLogicalBlack(logicalBlack);
-
-            //Rescale platform
-            Vector2 platformScale = new Vector2 (320, 240);
-            m_camera.setDimensions(platformScale);
-            m_camera.getScale();
-           
-
-
-
 
            // m_view.DrawBox();
 
