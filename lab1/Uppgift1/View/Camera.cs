@@ -9,8 +9,8 @@ namespace lab1.View
     class Camera
     {
         private float scale;
-        private int platformHeight = 512;
-        private int platformWidth = 512;
+        private int platformHeight = 7; //512
+        private int platformWidth = 7; //512
         private int sizeOfTile = 64;
         private int borderSize = 64;
 
