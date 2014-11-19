@@ -1,0 +1,57 @@
+c:\users\morteza\documents\visual studio 2012\Projects\Game3\Game3\bin\Windows\Debug\Game3.exe
+c:\users\morteza\documents\visual studio 2012\Projects\Game3\Game3\bin\Windows\Debug\Game3.pdb
+c:\users\morteza\documents\visual studio 2012\Projects\Game3\Game3\bin\Windows\Debug\MonoGame.Framework.dll
+c:\users\morteza\documents\visual studio 2012\Projects\Game3\Game3\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+c:\users\morteza\documents\visual studio 2012\Projects\Game3\Game3\bin\Windows\Debug\SharpDX.dll
+c:\users\morteza\documents\visual studio 2012\Projects\Game3\Game3\bin\Windows\Debug\SharpDX.XAudio2.dll
+c:\users\morteza\documents\visual studio 2012\Projects\Game3\Game3\bin\Windows\Debug\SharpDX.Direct3D11.dll
+c:\users\morteza\documents\visual studio 2012\Projects\Game3\Game3\bin\Windows\Debug\SharpDX.DXGI.dll
+c:\users\morteza\documents\visual studio 2012\Projects\Game3\Game3\bin\Windows\Debug\SharpDX.Direct2D1.dll
+c:\users\morteza\documents\visual studio 2012\Projects\Game3\Game3\bin\Windows\Debug\SharpDX.XInput.dll
+c:\users\morteza\documents\visual studio 2012\Projects\Game3\Game3\bin\Windows\Debug\SharpDX.RawInput.dll
+c:\users\morteza\documents\visual studio 2012\Projects\Game3\Game3\bin\Windows\Debug\SharpDX.Direct3D9.dll
+c:\users\morteza\documents\visual studio 2012\Projects\Game3\Game3\bin\Windows\Debug\MonoGame.Framework.xml
+c:\users\morteza\documents\visual studio 2012\Projects\Game3\Game3\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+c:\users\morteza\documents\visual studio 2012\Projects\Game3\Game3\bin\Windows\Debug\SharpDX.xml
+c:\users\morteza\documents\visual studio 2012\Projects\Game3\Game3\bin\Windows\Debug\SharpDX.XAudio2.xml
+c:\users\morteza\documents\visual studio 2012\Projects\Game3\Game3\bin\Windows\Debug\SharpDX.Direct3D11.xml
+c:\users\morteza\documents\visual studio 2012\Projects\Game3\Game3\bin\Windows\Debug\SharpDX.DXGI.xml
+c:\users\morteza\documents\visual studio 2012\Projects\Game3\Game3\bin\Windows\Debug\SharpDX.Direct2D1.xml
+c:\users\morteza\documents\visual studio 2012\Projects\Game3\Game3\bin\Windows\Debug\SharpDX.XInput.xml
+c:\users\morteza\documents\visual studio 2012\Projects\Game3\Game3\bin\Windows\Debug\SharpDX.RawInput.xml
+c:\users\morteza\documents\visual studio 2012\Projects\Game3\Game3\bin\Windows\Debug\SharpDX.Direct3D9.xml
+c:\users\morteza\documents\visual studio 2012\Projects\Game3\Game3\obj\x86\Debug\Game3.exe
+c:\users\morteza\documents\visual studio 2012\Projects\Game3\Game3\obj\x86\Debug\Game3.pdb
+c:\users\morteza\documents\visual studio 2012\Projects\Game3\Game3\obj\x86\Debug\Game3.csprojResolveAssemblyReference.cache
+c:\users\morteza\documents\visual studio 2012\Projects\Game3\Game3\bin\Windows\Debug\Content\Wall.gif
+c:\users\morteza\documents\visual studio 2012\Projects\Game3\Game3\bin\Windows\Debug\Content\tennisball.png
+F:\Game3\Game3\obj\x86\Debug\Game3.exe
+F:\Game3\Game3\obj\x86\Debug\Game3.pdb
+C:\Users\Sahand\Desktop\LABB 1\Game3\Game3\obj\x86\Debug\Game3.exe
+C:\Users\Sahand\Desktop\LABB 1\Game3\Game3\obj\x86\Debug\Game3.pdb
+C:\Users\Sahand\Desktop\LABB 1\Game3\Game3\bin\Windows\Debug\Content\tennisball.png
+C:\Users\Sahand\Desktop\LABB 1\Game3\Game3\bin\Windows\Debug\Game3.exe
+C:\Users\Sahand\Desktop\LABB 1\Game3\Game3\bin\Windows\Debug\Game3.pdb
+C:\Users\Sahand\Desktop\LABB 1\Game3\Game3\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Sahand\Desktop\LABB 1\Game3\Game3\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Sahand\Desktop\LABB 1\Game3\Game3\bin\Windows\Debug\SharpDX.dll
+C:\Users\Sahand\Desktop\LABB 1\Game3\Game3\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Sahand\Desktop\LABB 1\Game3\Game3\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Sahand\Desktop\LABB 1\Game3\Game3\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Sahand\Desktop\LABB 1\Game3\Game3\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Sahand\Desktop\LABB 1\Game3\Game3\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Sahand\Desktop\LABB 1\Game3\Game3\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Sahand\Desktop\LABB 1\Game3\Game3\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Sahand\Desktop\LABB 1\Game3\Game3\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Sahand\Desktop\LABB 1\Game3\Game3\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Sahand\Desktop\LABB 1\Game3\Game3\bin\Windows\Debug\SharpDX.xml
+C:\Users\Sahand\Desktop\LABB 1\Game3\Game3\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Sahand\Desktop\LABB 1\Game3\Game3\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Sahand\Desktop\LABB 1\Game3\Game3\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Sahand\Desktop\LABB 1\Game3\Game3\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Sahand\Desktop\LABB 1\Game3\Game3\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Sahand\Desktop\LABB 1\Game3\Game3\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Sahand\Desktop\LABB 1\Game3\Game3\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Sahand\Desktop\LABB 1\Game3\Game3\obj\x86\Debug\Game3.csprojResolveAssemblyReference.cache
+C:\Users\Sahand\Documents\GitHub\Labbar-I-Grundl-ggande-Spelprogrammering\Game3\Game3\obj\x86\Debug\Game3.exe
+C:\Users\Sahand\Documents\GitHub\Labbar-I-Grundl-ggande-Spelprogrammering\Game3\Game3\obj\x86\Debug\Game3.pdb
